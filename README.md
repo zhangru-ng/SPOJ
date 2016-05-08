@@ -9,7 +9,7 @@
 |[BUGLIFE](http://www.spoj.com/problems/BUGLIFE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/buglife.cc)| dfs |
 |[ESYRCRTN](http://www.spoj.com/problems/ESYRCRTN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/esyrcrtn.cc)| math |
 |[FARIDA](http://www.spoj.com/problems/FARIDA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/farida.cc)| dynamic programming |
-|[HISTOGRA](http://www.spoj.com/problems/HISTOGRA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/|[](http://www.spoj.com/problems//)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/histogra.cc)| stack |
+|[HISTOGRA](http://www.spoj.com/problems/HISTOGRA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/histogra.cc)| stack |
 |[MAJOR](http://www.spoj.com/problems/MAJOR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/major.cc)| Boyer–Moore majority vote |
 |[MAKEMAZE](http://www.spoj.com/problems/MAKEMAZE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/makemaze.cc)|bfs|
 |[NGM](http://www.spoj.com/problems/NGM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ngm.cc)| math |
@@ -27,6 +27,7 @@
 ## Tutorial
 |Title | Code | Tag  |
 |------|------|------|
-|[DIVSUM](http://www.spoj.com/problems/DIVSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/divsum.cc)|math|
-|[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)|basic|
-|[LEXISORT](http://www.spoj.com/problems/LEXISORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/lexisort.cc)|sorting|
+|[DIVSUM](http://www.spoj.com/problems/DIVSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/divsum.cc)| math |
+|[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
+|[LEXISORT](http://www.spoj.com/problems/LEXISORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/lexisort.cc)| sorting |
+|[SMIT](http://www.spoj.com/problems/SMIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/smit.cc)| math |
