@@ -22,12 +22,17 @@
 |[RMID2](http://www.spoj.com/problems/RMID2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/rmid2.cc)| heap |
 |[SAMER08F](http://www.spoj.com/problems/SAMER08F/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/samer08f.cc)| math |
 |[SBANK](http://www.spoj.com/problems/SBANK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/sbank.cc)| sorting |
+|[ULM09](http://www.spoj.com/problems/ULM09/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ulm09.cc)| minimum spanning tree |
 |[WILLITST](http://www.spoj.com/problems/WILLITST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/willitst.cc)| math |
 
 ## Tutorial
 |Title | Code | Tag  |
 |------|------|------|
+|[COUNTISL](http://www.spoj.com/problems/COUNTISL/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/countisl.cc)| dfs |
 |[DIVSUM](http://www.spoj.com/problems/DIVSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/divsum.cc)| math |
 |[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
+|[INTEST](http://www.spoj.com/problems/INTEST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/intest.cc)| basic |
 |[LEXISORT](http://www.spoj.com/problems/LEXISORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/lexisort.cc)| sorting |
 |[SMIT](http://www.spoj.com/problems/SMIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/smit.cc)| math |
+|[SUMTRIAN](http://www.spoj.com/problems/SUMTRIAN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sumtrian.cc)| dynamic programming |
+|[TSORT](http://www.spoj.com/problems/TSORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/tsort.cc)| sorting |
