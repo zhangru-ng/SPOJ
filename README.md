@@ -29,15 +29,21 @@
 |Title | Code | Tag  |
 |------|------|------|
 |[ADUN](http://www.spoj.com/problems/ADUN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/adun.cc)| basic |
+|[AE1B](http://www.spoj.com/problems/AE1B/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ae1b.cc)| greedy |
+|[AMR10F](http://www.spoj.com/problems/AMR10F/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/amr10f.cc)| math |
 |[COUNTISL](http://www.spoj.com/problems/COUNTISL/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/countisl.cc)| dfs |
 |[CALCAREA](http://www.spoj.com/problems/CALCAREA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/calcarea.cc)| geometry |
 |[DIVSUM](http://www.spoj.com/problems/DIVSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/divsum.cc)| math |
+|[DOUGHNUT](http://www.spoj.com/problems/DOUGHNUT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/doughnut.cc)| math |
 |[EASUDOKU](http://www.spoj.com/problems/EASUDOKU/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/easudoku.cc)| backtracking |
 |[EZDIJKST](http://www.spoj.com/problems/EZDIJKST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ezdijkst.cc)| dijkstra |
 |[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
+|[GNY07A](http://www.spoj.com/problems/GNY07A/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/gny07a.cc)| ad-hoc |
+|[HELLOKIT](http://www.spoj.com/problems/HELLOKIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hellokit.cc)| ad-hoc |
 |[INTEST](http://www.spoj.com/problems/INTEST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/intest.cc)| basic |
 |[LEXISORT](http://www.spoj.com/problems/LEXISORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/lexisort.cc)| sorting |
-|[PES16STR](http://www.spoj.com/problems/PES16STR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/pes16str.c)| substring |
+|[MIRRORED](http://www.spoj.com/problems/MIRRORED/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mirrored.cc)| ad-hoc |
+|[PES16STR](http://www.spoj.com/problems/PES16STR/)|[C](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/pes16str.c)| substring |
 |[SMIT](http://www.spoj.com/problems/SMIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/smit.cc)| math |
 |[SUMTRIAN](http://www.spoj.com/problems/SUMTRIAN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sumtrian.cc)| dynamic programming |
 |[TDBFS](http://www.spoj.com/problems/TDBFS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/tdbfs.cc)| dfs, bfs |
