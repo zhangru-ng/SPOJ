@@ -9,8 +9,12 @@
 |[ARRAYSUB](http://www.spoj.com/problems/ARRAYSUB/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/arraysub.cc)| deque |
 |[BUGLIFE](http://www.spoj.com/problems/BUGLIFE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/buglife.cc)| dfs |
 |[CANDY](http://www.spoj.com/problems/CANDY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy.cc)| ad-hoc |
+|[CANDY2](http://www.spoj.com/problems/CANDY2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy2.cc)| ad-hoc |
+|[CANDY3](http://www.spoj.com/problems/CANDY3/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy3.cc)| ad-hoc |
+|[EDIST](http://www.spoj.com/problems/EDIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/edist.cc)| dynamic programming |
 |[ESYRCRTN](http://www.spoj.com/problems/ESYRCRTN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/esyrcrtn.cc)| math |
 |[FARIDA](http://www.spoj.com/problems/FARIDA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/farida.cc)| dynamic programming |
+|[FCTRL](http://www.spoj.com/problems/FCTRL/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/fctrl.cc)| math |
 |[HISTOGRA](http://www.spoj.com/problems/HISTOGRA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/histogra.cc)| stack |
 |[MAJOR](http://www.spoj.com/problems/MAJOR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/major.cc)| Boyer–Moore majority vote |
 |[MAKEMAZE](http://www.spoj.com/problems/MAKEMAZE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/makemaze.cc)| bfs |
@@ -26,6 +30,7 @@
 |[SAMER08F](http://www.spoj.com/problems/SAMER08F/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/samer08f.cc)| math |
 |[SBANK](http://www.spoj.com/problems/SBANK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/sbank.cc)| sorting |
 |[SHPATH](http://www.spoj.com/problems/SHPATH/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/shpath.cc)| dijkstra |
+|[TEST](http://www.spoj.com/problems/TEST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/test.cc)| basic |
 |[TRVCOST](http://www.spoj.com/problems/TRVCOST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/trvcost.cc)| dijkstra |
 |[ULM09](http://www.spoj.com/problems/ULM09/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ulm09.cc)| minimum spanning tree |
 |[WILLITST](http://www.spoj.com/problems/WILLITST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/willitst.cc)| math |
@@ -37,6 +42,7 @@
 |[AE1B](http://www.spoj.com/problems/AE1B/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ae1b.cc)| greedy |
 |[AMR10F](http://www.spoj.com/problems/AMR10F/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/amr10f.cc)| math |
 |[BCEASY](http://www.spoj.com/problems/BCEASY/)|[Text](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bceasy.txt)| basic |
+|[BITCNTR](http://www.spoj.com/problems/BITCNTR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bitcntr.cc)| bit manipulation |
 |[BSEARCH1](http://www.spoj.com/problems/BSEARCH1/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bsearch1.cc)| binary search |
 |[COUNTISL](http://www.spoj.com/problems/COUNTISL/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/countisl.cc)| dfs |
 |[CALCAREA](http://www.spoj.com/problems/CALCAREA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/calcarea.cc)| geometry |
@@ -46,6 +52,7 @@
 |[ELIS](http://www.spoj.com/problems/ELIS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/elis.cc)| dynamic programming |
 |[EZDIJKST](http://www.spoj.com/problems/EZDIJKST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ezdijkst.cc)| dijkstra |
 |[FACTCG](http://www.spoj.com/problems/FACTCG/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/factcg.cc)| prime sieve, prime factorization |
+|[FEELUCK](http://www.spoj.com/problems/FEELUCK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/feeluck.cc)| sorting |
 |[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
 |[GNY07A](http://www.spoj.com/problems/GNY07A/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/gny07a.cc)| ad-hoc |
 |[HELLOKIT](http://www.spoj.com/problems/HELLOKIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hellokit.cc)| ad-hoc |
