@@ -15,6 +15,7 @@
 |[CANDY3](http://www.spoj.com/problems/CANDY3/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy3.cc)| ad-hoc |
 |[CANDY4](http://www.spoj.com/problems/CANDY4/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy4.cc)| probability, big k-combinations |
 |[COINS](http://www.spoj.com/problems/COINS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/coins.cc)| memoization |
+|[CSTREET](http://www.spoj.com/problems/CSTREET/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/cstreet.cc)| minimum spanning tree |
 |[EDIST](http://www.spoj.com/problems/EDIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/edist.cc)| dynamic programming |
 |[ESYRCRTN](http://www.spoj.com/problems/ESYRCRTN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/esyrcrtn.cc)| math |
 |[FACT0](http://www.spoj.com/problems/FACT0/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/fact0.cc)| prime factorization |

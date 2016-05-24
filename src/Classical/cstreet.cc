@@ -1,4 +1,4 @@
-// http://www.spoj.com/problems/MARYBMW/
+// http://www.spoj.com/problems/CSTREET/
 
 #include <cstdio>
 #include <vector>
@@ -34,7 +34,7 @@ public:
             parent[py] = px;
         } else {
             if (rank[px] == rank[py]) {
-                rank[py]++;
+                rank[py]++
             }
             parent[px] = py;
         }
@@ -44,35 +44,33 @@ public:
 struct Edge {
     int a;
     int b;
-    long long v;
-    Edge(int a, int b, long long v) : a(a), b(b), v(v) {}
+    long long c;
+    Edge(int a, int b, long long c) : a(a), b(b), c(c) {}
 };
 
 int main() {
     int t;
     scanf("%d", &t);
     while (t--) {
-        int n, m;
-        scanf("%d %d", &n, &m);
+        int p, n, m;
+        scanf("%d %d %d", &p, &n, &m);
         DisjointSet ds(n);
         vector<Edge> edges;
         while (m--) {
             int a, b;
-            long long v;
+            long long c;
             scanf("%d %d %lld", &a, &b, &v);
-            edges.emplace_back(a, b, v);
+            edges.emplace_back(a, b, c);
         }
-        sort(edges.begin(), edges.end(), [](const Edge& e1, const Edge& e2){return e1.v > e2.v;});
-        for (int i = 0; i < edges.size(); i++) {
-            ds.unite(edges[i].a, edges[i].b);
-            if (ds.find(1) == ds.find(n)) {
-                printf("%lld\n", edges[i].v);
-                break;
+        sort(edges.begin(), edges.end(), [](const Edge& e1, const Edge& e2){return e1.c < e2.c;});
+        int cost = 0;
+        for (auto e : edges) {
+            if (ds.find(e.a) != ds.find(e.b)) {
+                ds.unite(e.a, e.b);
+                cost += e.c;
             }
         }
-        if (ds.find(1) != ds.find(n)) {
-            printf("-1\n");
-        }
+        printf("%d\n", cost * p);
     }
     return 0;
 }
