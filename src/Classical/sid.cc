@@ -18,7 +18,7 @@ void scanint(int &x) {
         x = (x<<1) + (x<<3) + c - 48;
     }
     if (neg) {
-        x=-x;
+        x = -x;
     }
 }
 
