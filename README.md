@@ -11,13 +11,14 @@
 |[AP2](http://www.spoj.com/problems/AP2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ap2.cc)| math |
 |[ARITH2](http://www.spoj.com/problems/ARITH2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/arith2.cc)| ad-hoc |
 |[ARRAYSUB](http://www.spoj.com/problems/ARRAYSUB/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/arraysub.cc)| deque |
-|[BFTRI](http://www.spoj.com/problems/BFTRI/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/BFTRI.bf)| brainf**k |
+|[BFTRI](http://www.spoj.com/problems/BFTRI/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/bftri.bf)| Brainfuck |
 |[BUGLIFE](http://www.spoj.com/problems/BUGLIFE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/buglife.cc)| dfs |
 |[CANDY](http://www.spoj.com/problems/CANDY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy.cc)| ad-hoc |
 |[CANDY2](http://www.spoj.com/problems/CANDY2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy2.cc)| ad-hoc |
 |[CANDY3](http://www.spoj.com/problems/CANDY3/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy3.cc)| ad-hoc |
 |[CANDY4](http://www.spoj.com/problems/CANDY4/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy4.cc)| probability, big k-combinations |
 |[COINS](http://www.spoj.com/problems/COINS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/coins.cc)| memoization |
+|[CRYPTO2](http://www.spoj.com/problems/CRYPTO2/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/crypto2.bf)| Brainfuck |
 |[CSTREET](http://www.spoj.com/problems/CSTREET/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/cstreet.cc)| minimum spanning tree |
 |[EDIST](http://www.spoj.com/problems/EDIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/edist.cc)| dynamic programming |
 |[ESYRCRTN](http://www.spoj.com/problems/ESYRCRTN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/esyrcrtn.cc)| math |
@@ -82,6 +83,7 @@
 |[FEELUCK](http://www.spoj.com/problems/FEELUCK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/feeluck.cc)| sorting |
 |[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
 |[GNY07A](http://www.spoj.com/problems/GNY07A/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/gny07a.cc)| ad-hoc |
+|[HELLO](http://www.spoj.com/problems/HELLO/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hello.bf)| Brainfuck |
 |[HELLOKIT](http://www.spoj.com/problems/HELLOKIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hellokit.cc)| ad-hoc |
 |[INTEST](http://www.spoj.com/problems/INTEST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/intest.cc)| basic |
 |[KNAPSACK](http://www.spoj.com/problems/KNAPSACK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/knapsack.cc)| dynamic programming |

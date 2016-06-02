@@ -1,5 +1,6 @@
-http://www.spoj.com/problems/BFTRI/
+spoj/problems/BFTRI/
 
+read integer
 [-]>[-]+
 [[-]
 >[-],
