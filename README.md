@@ -3,6 +3,7 @@
 ## Classical
 |Title | Code | Tag  |
 |------|------|------|
+|[ACMT](http://www.spoj.com/problems/ACMT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/acmt.cc)| linear programming |
 |[ADDREV](http://www.spoj.com/problems/ADDREV/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/addrev.cc)| math |
 |[AGGRCOW](http://www.spoj.com/problems/AGGRCOW/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/aggrcow.cc)| binary search |
 |[AKVQLD03](http://www.spoj.com/problems/AKVQLD03/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/akvqld03.cc)| binary indexed tree |
@@ -12,6 +13,8 @@
 |[ARITH2](http://www.spoj.com/problems/ARITH2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/arith2.cc)| ad-hoc |
 |[ARRAYSUB](http://www.spoj.com/problems/ARRAYSUB/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/arraysub.cc)| deque |
 |[BFTRI](http://www.spoj.com/problems/BFTRI/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/bftri.bf)| Brainfuck |
+|[BLINNET](http://www.spoj.com/problems/BLINNET/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/blinnet.cc)| minimum spanning tree |
+|[BSHEEP](http://www.spoj.com/problems/BSHEEP/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/bsheep.cc)| convex hull |
 |[BUGLIFE](http://www.spoj.com/problems/BUGLIFE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/buglife.cc)| dfs |
 |[CANDY](http://www.spoj.com/problems/CANDY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy.cc)| ad-hoc |
 |[CANDY2](http://www.spoj.com/problems/CANDY2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/candy2.cc)| ad-hoc |
@@ -26,10 +29,12 @@
 |[FARIDA](http://www.spoj.com/problems/FARIDA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/farida.cc)| dynamic programming |
 |[FCTRL](http://www.spoj.com/problems/FCTRL/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/fctrl.cc)| math |
 |[FCTRL2](http://www.spoj.com/problems/FCTRL2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/fctrl2.cc)| big numbers |
+|[FOXLINGS](http://www.spoj.com/problems/FOXLINGS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/foxlings.cc)| disjoint sets, coordinate compression |
 |[FRNDCIRC](http://www.spoj.com/problems/FRNDCIRC/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/frndcirc.cc)| disjoint sets |
 |[HIGHWAYS](http://www.spoj.com/problems/HIGHWAYS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/highways.cc)| Dijkstra |
 |[HISTOGRA](http://www.spoj.com/problems/HISTOGRA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/histogra.cc)| stack |
 |[HMBY](http://www.spoj.com/problems/HMBY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/hmby.cc)| greedy |
+|[ICKHELLO](http://www.spoj.com/problems/ICKHELLO/)|[INTERCAL](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ickhello.i)| INTERCAL |
 |[IITKWPCA](http://www.spoj.com/problems/IITKWPCA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/iitkwpca.cc)| ad-hoc |
 |[IITWPC4I](http://www.spoj.com/problems/IITWPC4I/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/iitwpc4i.cc)| disjoint sets, minimum spanning tree |
 |[JAVAC](http://www.spoj.com/problems/JAVAC/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/javac.cc)| string |
@@ -40,6 +45,8 @@
 |[MICEMAZE](http://www.spoj.com/problems/MICEMAZE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/micemaze.cc)| Dijkstra |
 |[NGM](http://www.spoj.com/problems/NGM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ngm.cc)| math |
 |[NHAY](http://www.spoj.com/problems/NHAY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/nhay.cc)| KMP |
+|[NINJA4](http://www.spoj.com/problems/NINJA4/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ninja4.cc)| math |
+|[NUMPATH](http://www.spoj.com/problems/NUMPATH/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/numpath.cc)| dynamic programming |
 |[ORDERSET](http://www.spoj.com/problems/ORDERSET/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/orderset.cc)| order statistic tree |
 |[PPBRJB](http://www.spoj.com/problems/PPBRJB/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ppbrjb.cc)| dynamic programming, prime sieve |
 |[PRIME1](http://www.spoj.com/problems/PRIME1/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/prime1.cc)| prime sieve |
@@ -69,6 +76,8 @@
 |[ADUN](http://www.spoj.com/problems/ADUN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/adun.cc)| basic |
 |[AE1B](http://www.spoj.com/problems/AE1B/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ae1b.cc)| greedy |
 |[AMR10F](http://www.spoj.com/problems/AMR10F/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/amr10f.cc)| math |
+|[ANAG](http://www.spoj.com/problems/ANAG/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/anag.cc)| string |
+|[ANARC08E](http://www.spoj.com/problems/ANARC08E/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/anarc08e.cc)| math |
 |[BCEASY](http://www.spoj.com/problems/BCEASY/)|[Text](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bceasy.txt)| basic |
 |[BITCNTR](http://www.spoj.com/problems/BITCNTR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bitcntr.cc)| bit manipulation |
 |[BSEARCH1](http://www.spoj.com/problems/BSEARCH1/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/bsearch1.cc)| binary search |
@@ -91,13 +100,16 @@
 |[MEOWIST](http://www.spoj.com/problems/MEOWIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/meowist.cc)| sorting |
 |[MIRRORED](http://www.spoj.com/problems/MIRRORED/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mirrored.cc)| ad-hoc |
 |[MST1](http://www.spoj.com/problems/MST1/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mst1.cc)| dynamic programming |
+|[NEXTODD](http://www.spoj.com/problems/NEXTODD/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/nextodd.cc)| source limit |
 |[OPCPRIME](http://www.spoj.com/problems/OPCPRIME/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/opcprime.cc)| prime factorization |
 |[PES16STR](http://www.spoj.com/problems/PES16STR/)|[C](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/pes16str.c)| substring |
+|[SIGSEGV](http://www.spoj.com/problems/SIGSEGV/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sigsegv.cc)| segmentation fault |
 |[SMIT](http://www.spoj.com/problems/SMIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/smit.cc)| math |
 |[SUMTRIAN](http://www.spoj.com/problems/SUMTRIAN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sumtrian.cc)| dynamic programming |
 |[TDBFS](http://www.spoj.com/problems/TDBFS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/tdbfs.cc)| dfs, bfs |
 |[TOPOSORT](http://www.spoj.com/problems/TOPOSORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/toposort.cc)| topological sort |
 |[TSHPATH](http://www.spoj.com/problems/TSHPATH/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/tshpath.cc)| Dijkstra |
 |[TSORT](http://www.spoj.com/problems/TSORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/tsort.cc)| sorting |
+|[VOWELS](http://www.spoj.com/problems/VOWELS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/vowels.cc)| string |
 
 
