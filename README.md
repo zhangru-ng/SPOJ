@@ -86,23 +86,27 @@
 |[DIVSUM](http://www.spoj.com/problems/DIVSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/divsum.cc)| math |
 |[DOUGHNUT](http://www.spoj.com/problems/DOUGHNUT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/doughnut.cc)| math |
 |[EASUDOKU](http://www.spoj.com/problems/EASUDOKU/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/easudoku.cc)| backtracking |
+|[EELCS](http://www.spoj.com/problems/EELCS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/eelcs.cc)| dynamic programming |
 |[ELIS](http://www.spoj.com/problems/ELIS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/elis.cc)| dynamic programming |
 |[EZDIJKST](http://www.spoj.com/problems/EZDIJKST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/ezdijkst.cc)| Dijkstra |
 |[FACTCG](http://www.spoj.com/problems/FACTCG/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/factcg.cc)| prime sieve, prime factorization |
 |[FEELUCK](http://www.spoj.com/problems/FEELUCK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/feeluck.cc)| sorting |
-|[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.cc)| basic |
+|[FIRSTCODE](http://www.spoj.com/problems/FIRSTCODE/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/firstcode.bf)| Brainfuck |
 |[GNY07A](http://www.spoj.com/problems/GNY07A/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/gny07a.cc)| ad-hoc |
 |[HELLO](http://www.spoj.com/problems/HELLO/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hello.bf)| Brainfuck |
 |[HELLOKIT](http://www.spoj.com/problems/HELLOKIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/hellokit.cc)| ad-hoc |
 |[INTEST](http://www.spoj.com/problems/INTEST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/intest.cc)| basic |
 |[KNAPSACK](http://www.spoj.com/problems/KNAPSACK/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/knapsack.cc)| dynamic programming |
 |[LEXISORT](http://www.spoj.com/problems/LEXISORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/lexisort.cc)| sorting |
+|[MB2](http://www.spoj.com/problems/MB2/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mb2.bf)| Brainfuck |
 |[MEOWIST](http://www.spoj.com/problems/MEOWIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/meowist.cc)| sorting |
+|[MERGSORT](http://www.spoj.com/problems/MERGSORT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mergsort.cc)| sorting |
 |[MIRRORED](http://www.spoj.com/problems/MIRRORED/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mirrored.cc)| ad-hoc |
 |[MST1](http://www.spoj.com/problems/MST1/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/mst1.cc)| dynamic programming |
 |[NEXTODD](http://www.spoj.com/problems/NEXTODD/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/nextodd.cc)| source limit |
 |[OPCPRIME](http://www.spoj.com/problems/OPCPRIME/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/opcprime.cc)| prime factorization |
 |[PES16STR](http://www.spoj.com/problems/PES16STR/)|[C](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/pes16str.c)| substring |
+|[PYTHTRIP](http://www.spoj.com/problems/PYTHTRIP/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/pythtrip.cc)| math |
 |[SIGSEGV](http://www.spoj.com/problems/SIGSEGV/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sigsegv.cc)| segmentation fault |
 |[SMIT](http://www.spoj.com/problems/SMIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/smit.cc)| math |
 |[SUMTRIAN](http://www.spoj.com/problems/SUMTRIAN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Tutorial/sumtrian.cc)| dynamic programming |
