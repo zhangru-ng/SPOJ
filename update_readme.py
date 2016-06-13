@@ -23,7 +23,7 @@ copyfile(os.path.join(draft_path, 'solution.txt'), os.path.join(src_path+categor
 
 github_link += category[cate] + '/' + file_name
 
-descr = '|['+name+']('+problem_link+name+')|['+language[ftype]+']('+github_link+')| '+tag+' |\n'
+descr = '|['+name+']('+problem_link+name+'/)|['+language[ftype]+']('+github_link+')| '+tag+' |\n'
 
 f = open(md, "r")
 contents = f.readlines()
@@ -44,16 +44,16 @@ while contents[i] != '|------|------|------|\n':
 
 i += 1
 tutorial = []
-while i < len(contents):
+while contents[i] != '\n':
     tutorial.append(contents[i])
     i += 1
 
 if cate == 1:
     classical.append(descr)
-    classical.sort()
+    classical.sort(key=lambda x: x.split(']')[0])
 else:
     tutorial.append(descr)
-    tutorial.sort()
+    tutorial.sort(key=lambda x: x.split(']')[0])
 
 updated = ['# SPOJ problems\n', '\n', '## Classical\n', '|Title | Code | Tag  |\n', '|------|------|------|\n']
 for item in classical:
@@ -61,6 +61,7 @@ for item in classical:
 updated.extend(['\n', '## Tutorial\n', '|Title | Code | Tag  |\n', '|------|------|------|\n'])
 for item in tutorial:
     updated.append(item)
+updated.append('\n')
 
 f = open(md, "w")
 contents = "".join(updated)
