@@ -27,6 +27,7 @@
 |[CRYPTO2](http://www.spoj.com/problems/CRYPTO2/)|[Brainfuck](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/crypto2.bf)| Brainfuck |
 |[CSTREET](http://www.spoj.com/problems/CSTREET/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/cstreet.cc)| minimum spanning tree |
 |[DANGER](http://www.spoj.com/problems/DANGER/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/danger.cc)| ad-hoc |
+|[DCRYPT](http://www.spoj.com/problems/DCRYPT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/dcrypt.cc)| ad-hoc |
 |[EDIST](http://www.spoj.com/problems/EDIST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/edist.cc)| dynamic programming |
 |[ESYRCRTN](http://www.spoj.com/problems/ESYRCRTN/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/esyrcrtn.cc)| math |
 |[FACT0](http://www.spoj.com/problems/FACT0/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/fact0.cc)| prime factorization |
@@ -37,6 +38,7 @@
 |[FOXLINGS](http://www.spoj.com/problems/FOXLINGS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/foxlings.cc)| disjoint sets, coordinate compression |
 |[FRNDCIRC](http://www.spoj.com/problems/FRNDCIRC/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/frndcirc.cc)| disjoint sets |
 |[GLJIVE](http://www.spoj.com/problems/GLJIVE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/gljive.cc)| greedy |
+|[HASHIT](http://www.spoj.com/problems/HASHIT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/hashit.cc)| hash, open addressing |
 |[HIGHWAYS](http://www.spoj.com/problems/HIGHWAYS/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/highways.cc)| Dijkstra |
 |[HISTOGRA](http://www.spoj.com/problems/HISTOGRA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/histogra.cc)| stack |
 |[HMBY](http://www.spoj.com/problems/HMBY/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/hmby.cc)| greedy |
@@ -44,6 +46,9 @@
 |[IITKWPCA](http://www.spoj.com/problems/IITKWPCA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/iitkwpca.cc)| ad-hoc |
 |[IITWPC4I](http://www.spoj.com/problems/IITWPC4I/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/iitwpc4i.cc)| disjoint sets, minimum spanning tree |
 |[JAVAC](http://www.spoj.com/problems/JAVAC/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/javac.cc)| string |
+|[KROW](http://www.spoj.com/problems/KROW/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/krow.cc)| ad-hoc |
+|[LASTDIG](http://www.spoj.com/problems/LASTDIG/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/lastdig.cc)| math |
+|[LASTDIG2](http://www.spoj.com/problems/LASTDIG2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/lastdig2.cc)| math |
 |[LOSTNSURVIVED](http://www.spoj.com/problems/LOSTNSURVIVED/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/lostnsurvived.cc)| disjoint sets |
 |[MAJOR](http://www.spoj.com/problems/MAJOR/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/major.cc)| Boyer–Moore majority vote |
 |[MAKEMAZE](http://www.spoj.com/problems/MAKEMAZE/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/makemaze.cc)| bfs |
@@ -62,6 +67,7 @@
 |[PT07Y](http://www.spoj.com/problems/PT07Y/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/pt07y.cc)| dfs, bfs |
 |[PT07Z](http://www.spoj.com/problems/PT07Z/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/pt07z.cc)| dfs, dynamic programming |
 |[PUCMM210](http://www.spoj.com/problems/PUCMM210/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/pucmm210.cc)| math |
+|[QUADAREA](http://www.spoj.com/problems/QUADAREA/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/quadarea.cc)| geometry |
 |[RMID](http://www.spoj.com/problems/RMID/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/rmid.cc)| linked list |
 |[RMID2](http://www.spoj.com/problems/RMID2/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/rmid2.cc)| heap |
 |[RPLD](http://www.spoj.com/problems/RPLD/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/rpld.cc)| ad-hoc |
@@ -75,9 +81,11 @@
 |[TOANDFRO](http://www.spoj.com/problems/TOANDFRO/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/toandfro.cc)| ad-hoc |
 |[TRVCOST](http://www.spoj.com/problems/TRVCOST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/trvcost.cc)| Dijkstra |
 |[ULM09](http://www.spoj.com/problems/ULM09/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/ulm09.cc)| minimum spanning tree |
+|[VHELSING](http://www.spoj.com/problems/VHELSING/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/vhelsing.cc)| geometry |
 |[WILLITST](http://www.spoj.com/problems/WILLITST/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/willitst.cc)| math |
 |[WORDCNT](http://www.spoj.com/problems/WORDCNT/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/wordcnt.cc)| ad-hoc |
 |[WPC5E](http://www.spoj.com/problems/WPC5E/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/wpc5e.cc)| convex hull |
+|[ZSUM](http://www.spoj.com/problems/ZSUM/)|[C++](https://github.com/RayZ-O/SPOJ/blob/master/src/Classical/zsum.cc)| modular exponentiation |
 
 ## Tutorial
 |Title | Code | Tag  |
