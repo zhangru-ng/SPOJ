@@ -4,8 +4,8 @@ import os
 import re
 
 category = { 1: "Classical", 2: "Tutorial" }
-file_type = { 1: ".cc", 2: ".c", 3: ".bf" }
-language = { 1: "C++", 2: "C", 3: "Brainfuck" }
+file_type = { 1: ".cc", 2: ".c", 3: ".bf", 4: ".py" }
+language = { 1: "C++", 2: "C", 3: "Brainfuck", 4: "Python" }
 github_link = 'https://github.com/RayZ-O/SPOJ/blob/master/src/'
 problem_link = 'http://www.spoj.com/problems/'
 draft_path = 'draft/'
@@ -14,7 +14,7 @@ md =  'README.md'
 
 name = input("Problem name\n")
 cate = int(input("Category: (1) Classical (2) Tutorial\n"))
-ftype = int(input("File type: (1) C++ (2) C (3) Brainfuck\n"))
+ftype = int(input("File type: (1) C++ (2) C (3) Brainfuck (4) Python\n"))
 tag = input("Problem tag\n")
 
 
